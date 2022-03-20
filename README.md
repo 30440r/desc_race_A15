@@ -31,12 +31,11 @@ CVE-2021-30955 iOS 15.1.1 POC for 6GB RAM devices (A14-A15)
 <p float="left">
   <img src="src/light.png" width="300" />
   <img src="src/dark.png" width="300" /> 
-  <img src="src/sc.png" width="100" />
 </p>
 
 
 # Credits
-- @realBrightiup
-- @b1n4r1b01
-- @jakeashacks
-
+- [@realBrightiup](https://twitter.com/realbrightiup)
+- [@b1n4r1b01](https://twitter.com/b1n4r1b01)
+- [@jakeashacks](https://twitter.com/jakeashacks)
+- [@pattern-f](https://twitter.com/pattern_F_)
